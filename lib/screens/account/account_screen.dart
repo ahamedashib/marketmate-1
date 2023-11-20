@@ -27,7 +27,7 @@ class AccountScreen extends StatelessWidget {
                   fontWeight: FontWeight.bold,
                 ),
                 subtitle: AppText(
-                  text: "github.com/ahamedashib",
+                  text: "github.com/ahxmedashib",
                   color: Color(0xff7C7C7C),
                   fontWeight: FontWeight.normal,
                   fontSize: 16,
